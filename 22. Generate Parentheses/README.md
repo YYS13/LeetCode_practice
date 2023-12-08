@@ -1,4 +1,4 @@
-# 22.Generate Parentheses `#1589F0`
+# 22.Generate Parentheses +green
 ### Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 
  
