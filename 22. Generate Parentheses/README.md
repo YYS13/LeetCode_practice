@@ -1,17 +1,18 @@
-# 22.Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+# 22.Generate Parentheses
+### Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 
  
 
 ## Example 1:  
 
-Input: n = 3  
-Output: ["((()))","(()())","(())()","()(())","()()()"]  
+#### Input: n = 3  
+#### Output: ["((()))","(()())","(())()","()(())","()()()"]  
 ## Example 2:  
 
-Input: n = 1  
-Output: ["()"]  
+#### Input: n = 1  
+#### Output: ["()"]  
  
 
-Constraints:  
+#### Constraints:  
 
-1 <= n <= 8  
+#### 1 <= n <= 8  
