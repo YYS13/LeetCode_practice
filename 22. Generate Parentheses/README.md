@@ -15,4 +15,7 @@
 
 #### Constraints:  
 
-#### 1 <= n <= 8  
+#### 1 <= n <= 8
+
+# Note
+![image](https://github.com/YYS13/LeetCode_practice/blob/master/22.%20Generate%20Parentheses/S__4980755.jpg?raw=true)
