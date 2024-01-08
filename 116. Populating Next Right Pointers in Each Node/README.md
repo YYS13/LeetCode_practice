@@ -12,6 +12,8 @@
 
 ## Example 1:  
 
+![image](https://raw.githubusercontent.com/YYS13/LeetCode_practice/e4c32d725e837da358161e7ab10bab5a5f7dbcb4/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-01-08%20110457.png)
+
 #### Input: root = [1,2,3,4,5,6,7]  
 #### Output: [1,#,2,3,#,4,5,6,7,#] 
 ## Example 2:  
